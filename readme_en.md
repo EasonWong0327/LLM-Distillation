@@ -1,4 +1,5 @@
 # Qwen Multi-Stage Knowledge Distillation Framework
+[🇨🇳 中文](readme.md) | [🇺🇸 English](readme_en.md)  
 
 A multi-stage knowledge distillation framework designed for Qwen models, specifically optimized for financial domain adaptation. This framework efficiently distills knowledge from Qwen-72B to Qwen-7B-instruct.
 
